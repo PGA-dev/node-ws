@@ -1,4 +1,4 @@
 # Workshop public
 
 ### Port from node-express
-- First entry is for Workshop 1
+- Workshop 1 is completed and ready for viewing
